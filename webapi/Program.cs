@@ -33,13 +33,13 @@ options.WithOrigins("https://localhost:3000")
 .AllowAnyHeader());
 */
 
-// Configure the HTTP request pipeline.
-/*if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}*/
-//app.UseCors(MyAllowSpecificOrigins);
+// // Configure the HTTP request pipeline.
+// if (app.Environment.IsDevelopment())
+// {
+//     app.UseSwagger();
+//     app.UseSwaggerUI();
+// }
+// app.UseCors(MyAllowSpecificOrigins);
 
 
 var app = builder.Build();

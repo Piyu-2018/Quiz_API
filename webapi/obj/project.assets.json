@@ -11064,11 +11064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3rd year\\Esari\\shoppingsite\\Quiz-API\\webapi\\QuizAPI.csproj",
+      "projectUniqueName": "D:\\3rd year\\Project\\Quiz-API\\webapi\\QuizAPI.csproj",
       "projectName": "QuizAPI",
-      "projectPath": "D:\\3rd year\\Esari\\shoppingsite\\Quiz-API\\webapi\\QuizAPI.csproj",
+      "projectPath": "D:\\3rd year\\Project\\Quiz-API\\webapi\\QuizAPI.csproj",
       "packagesPath": "C:\\Users\\Piyumi\\.nuget\\packages\\",
-      "outputPath": "D:\\3rd year\\Esari\\shoppingsite\\Quiz-API\\webapi\\obj\\",
+      "outputPath": "D:\\3rd year\\Project\\Quiz-API\\webapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Piyumi\\AppData\\Roaming\\NuGet\\NuGet.Config",

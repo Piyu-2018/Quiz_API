@@ -1,2 +1,4 @@
 D:\3rd year\Esari\shoppingsite\Quiz-API\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
 D:\3rd year\Esari\shoppingsite\Quiz-API\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
+D:\3rd year\Project\Quiz-API\reactapp\obj\Debug\reactapp.esproj.SuggestedBindingRedirects.cache
+D:\3rd year\Project\Quiz-API\reactapp\obj\Debug\reactapp.esproj.CoreCompileInputs.cache
